@@ -15,9 +15,6 @@ import java.awt.Color;
  */
 public class Test {
     public static void main(String[] args) {
-     double x = MathC.oneChaosLogisticMap(0.341, 0.452);
-     int c = new Color(0xFFFFFF).getRGB();
-        System.out.println(ImageCipher.colorToInt(c));
 
 
     
